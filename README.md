@@ -10,7 +10,8 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 * Maximize data preprocessing performance.
 
 # ScreenShots
-![image](https://user-images.githubusercontent.com/76240428/203902814-5b536d54-d836-493a-acdd-0c1187b343fb.png)
+![image](https://user-images.githubusercontent.com/76240428/203903173-d5915e79-7e0f-42d5-835a-41a081d525aa.png)
 
-![image](https://user-images.githubusercontent.com/76240428/203902892-b59607a0-0bb1-4f26-84d8-d3097a15a527.png)
+![image](https://user-images.githubusercontent.com/76240428/203903359-60753a5e-4bf8-4490-b76b-839d842f1d1b.png)
+
 
